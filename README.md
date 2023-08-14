@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+### Assalamualaikum
+
+Perkenalkan nama saya **Dimas Surya Wirastama**.
+
+Saya seorang **Beginer Developer**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] https://www.linkedin.com/in/dimas-surya-wirastama-154639266/
 
 <!--
 **Dimas1008/Dimas1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
